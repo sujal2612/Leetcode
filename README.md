@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal2612/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -28,4 +29,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
