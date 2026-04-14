@@ -17,6 +17,7 @@ Leetcode Practice
 | [1470-shuffle-the-array](https://github.com/sujal2612/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sujal2612/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -80,4 +83,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
