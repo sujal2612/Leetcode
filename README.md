@@ -13,6 +13,7 @@ Leetcode Practice
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/sujal2612/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/sujal2612/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujal2612/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/sujal2612/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -99,8 +100,10 @@ Leetcode Practice
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sujal2612/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sujal2612/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
