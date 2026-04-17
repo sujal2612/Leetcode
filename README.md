@@ -10,6 +10,7 @@ Leetcode Practice
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal2612/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/sujal2612/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -94,4 +95,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
