@@ -21,6 +21,7 @@ Leetcode Practice
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
