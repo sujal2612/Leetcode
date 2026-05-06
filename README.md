@@ -18,6 +18,7 @@ Leetcode Practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujal2612/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/sujal2612/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sujal2612/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -36,6 +37,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Leetcode Practice
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sujal2612/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sujal2612/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
