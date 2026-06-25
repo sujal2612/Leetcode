@@ -24,6 +24,7 @@ Leetcode Practice
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Leetcode Practice
 | ------- |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -131,8 +133,25 @@ Leetcode Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
