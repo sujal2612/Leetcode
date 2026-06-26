@@ -18,6 +18,7 @@ Leetcode Practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujal2612/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/sujal2612/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/sujal2612/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sujal2612/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -133,6 +134,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/sujal2612/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
