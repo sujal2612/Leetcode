@@ -61,6 +61,7 @@ Leetcode Practice
 | ------- |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ Leetcode Practice
 | ------- |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Interactive
 |  |
@@ -156,5 +158,6 @@ Leetcode Practice
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
