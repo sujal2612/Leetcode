@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujal2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sujal2612/Leetcode/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -83,6 +84,7 @@ Leetcode Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal2612/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sujal2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujal2612/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -143,6 +145,7 @@ Leetcode Practice
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujal2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Sliding Window
 |  |
