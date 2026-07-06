@@ -11,6 +11,7 @@ Leetcode Practice
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal2612/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ Leetcode Practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujal2612/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## String
@@ -133,6 +135,7 @@ Leetcode Practice
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
@@ -190,4 +193,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
