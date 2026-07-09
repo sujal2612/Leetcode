@@ -31,6 +31,7 @@ Leetcode Practice
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sujal2612/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -74,6 +75,7 @@ Leetcode Practice
 | [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -167,6 +169,7 @@ Leetcode Practice
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sujal2612/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
