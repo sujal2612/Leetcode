@@ -8,6 +8,7 @@ Leetcode Practice
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujal2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sujal2612/Leetcode/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/sujal2612/Leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal2612/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ Leetcode Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal2612/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/sujal2612/Leetcode/tree/master/0041-first-missing-positive) |
 | [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
