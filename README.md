@@ -56,6 +56,7 @@ Leetcode Practice
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3100-water-bottles-ii](https://github.com/sujal2612/Leetcode/tree/master/3100-water-bottles-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Leetcode Practice
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3100-water-bottles-ii](https://github.com/sujal2612/Leetcode/tree/master/3100-water-bottles-ii) |
 ## String
 |  |
 | ------- |
