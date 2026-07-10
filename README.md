@@ -30,6 +30,7 @@ Leetcode Practice
 | [1929-concatenation-of-array](https://github.com/sujal2612/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sujal2612/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -46,6 +47,7 @@ Leetcode Practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujal2612/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Leetcode Practice
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/sujal2612/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Leetcode Practice
 | [0088-merge-sorted-array](https://github.com/sujal2612/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
 |  |
 | ------- |
