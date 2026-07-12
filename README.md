@@ -16,6 +16,7 @@ Leetcode Practice
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -68,6 +69,7 @@ Leetcode Practice
 | ------- |
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +232,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sujal2612/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
