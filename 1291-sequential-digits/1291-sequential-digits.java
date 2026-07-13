@@ -3,13 +3,10 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         String digits = "123456789";
         
-        int minLen = String.valueOf(low).length();
-        int maxLen = String.valueOf(high).length();
-        
-        for (int len = minLen; len <= maxLen; len++) {
+        for (int len =1; len <=9; len++) {
             for (int start = 0; start + len <= 9; start++) {
                 String sub = digits.substring(start, start + len);
-                int num = Integer.parseInt(sub);
+                int num = Integer.valueOf(sub);
                 
                 if (num >= low && num <= high) {
                     result.add(num);
