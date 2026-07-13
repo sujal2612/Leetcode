@@ -224,6 +224,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/sujal2612/Leetcode/tree/master/1291-sequential-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
