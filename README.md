@@ -15,6 +15,7 @@ Leetcode Practice
 | [0088-merge-sorted-array](https://github.com/sujal2612/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ Leetcode Practice
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sujal2612/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sujal2612/Leetcode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/sujal2612/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sujal2612/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -151,6 +153,7 @@ Leetcode Practice
 | ------- |
 | [0016-3sum-closest](https://github.com/sujal2612/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sujal2612/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
