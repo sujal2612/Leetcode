@@ -71,6 +71,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
+| [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
@@ -103,6 +104,7 @@ Leetcode Practice
 | [0012-integer-to-roman](https://github.com/sujal2612/Leetcode/tree/master/0012-integer-to-roman) |
 | [0089-gray-code](https://github.com/sujal2612/Leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -139,6 +141,7 @@ Leetcode Practice
 | [0002-add-two-numbers](https://github.com/sujal2612/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sujal2612/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sujal2612/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
