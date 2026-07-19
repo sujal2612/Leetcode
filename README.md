@@ -216,6 +216,7 @@ Leetcode Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sujal2612/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -248,6 +249,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sujal2612/Leetcode/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/sujal2612/Leetcode/tree/master/0190-reverse-bits) |
 ## Queue
 |  |
 | ------- |
