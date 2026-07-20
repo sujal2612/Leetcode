@@ -17,6 +17,7 @@ Leetcode Practice
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sujal2612/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -162,6 +163,7 @@ Leetcode Practice
 | [0016-3sum-closest](https://github.com/sujal2612/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sujal2612/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +200,7 @@ Leetcode Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal2612/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sujal2612/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
@@ -258,4 +261,12 @@ Leetcode Practice
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
