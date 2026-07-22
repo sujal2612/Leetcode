@@ -20,6 +20,7 @@ Leetcode Practice
 | [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sujal2612/Leetcode/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -76,6 +77,7 @@ Leetcode Practice
 | [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/sujal2612/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/sujal2612/Leetcode/tree/master/0403-frog-jump) |
 ## Greedy
 |  |
 | ------- |
