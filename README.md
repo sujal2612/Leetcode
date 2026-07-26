@@ -24,6 +24,7 @@ Leetcode Practice
 | [0485-max-consecutive-ones](https://github.com/sujal2612/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sujal2612/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sujal2612/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sujal2612/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -110,6 +111,7 @@ Leetcode Practice
 | [0089-gray-code](https://github.com/sujal2612/Leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sujal2612/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,6 +171,7 @@ Leetcode Practice
 | [0217-contains-duplicate](https://github.com/sujal2612/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
