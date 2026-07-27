@@ -32,6 +32,7 @@ Leetcode Practice
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujal2612/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sujal2612/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1732-find-the-highest-altitude](https://github.com/sujal2612/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -174,6 +175,7 @@ Leetcode Practice
 | [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujal2612/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
 |  |
@@ -249,6 +251,7 @@ Leetcode Practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujal2612/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 ## Enumeration
 |  |
