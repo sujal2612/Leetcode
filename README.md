@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sujal2612/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sujal2612/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/sujal2612/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/sujal2612/Leetcode/tree/master/0041-first-missing-positive) |
@@ -51,6 +52,7 @@ Leetcode Practice
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sujal2612/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sujal2612/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujal2612/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -230,6 +232,7 @@ Leetcode Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sujal2612/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/sujal2612/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
