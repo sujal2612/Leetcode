@@ -133,6 +133,7 @@ Leetcode Practice
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sujal2612/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Interactive
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Leetcode Practice
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujal2612/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -280,4 +282,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/sujal2612/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
