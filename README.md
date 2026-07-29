@@ -114,6 +114,7 @@ Leetcode Practice
 | [0089-gray-code](https://github.com/sujal2612/Leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/sujal2612/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0593-valid-square](https://github.com/sujal2612/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -289,4 +290,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/sujal2612/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
