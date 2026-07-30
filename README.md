@@ -89,6 +89,7 @@ Leetcode Practice
 | [0055-jump-game](https://github.com/sujal2612/Leetcode/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/sujal2612/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujal2612/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Leetcode Practice
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sujal2612/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujal2612/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/sujal2612/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sujal2612/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sujal2612/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -136,6 +138,7 @@ Leetcode Practice
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sujal2612/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujal2612/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Interactive
 |  |
