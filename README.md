@@ -46,6 +46,7 @@ Leetcode Practice
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sujal2612/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sujal2612/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sujal2612/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sujal2612/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -108,6 +109,7 @@ Leetcode Practice
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sujal2612/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sujal2612/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal2612/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -176,6 +178,7 @@ Leetcode Practice
 | [0876-middle-of-the-linked-list](https://github.com/sujal2612/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/sujal2612/Leetcode/tree/master/1861-rotating-the-box) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sujal2612/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
