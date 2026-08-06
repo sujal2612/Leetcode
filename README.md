@@ -134,6 +134,7 @@ Leetcode Practice
 | [2221-find-triangular-sum-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sujal2612/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/sujal2612/Leetcode/tree/master/3100-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sujal2612/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sujal2612/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sujal2612/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -284,6 +285,7 @@ Leetcode Practice
 | ------- |
 | [0204-count-primes](https://github.com/sujal2612/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sujal2612/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sujal2612/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
