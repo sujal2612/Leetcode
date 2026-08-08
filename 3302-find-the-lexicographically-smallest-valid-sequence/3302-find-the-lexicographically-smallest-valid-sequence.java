@@ -1,0 +1,37 @@
+import java.util.Arrays;
+
+class Solution {
+    public int[] validSequence(String word1, String word2) {
+        int n = word1.length();
+        int m = word2.length();
+
+        int[] last = new int[m];
+        Arrays.fill(last, -1);
+
+        int i = n - 1, j = m - 1;
+        while (i >= 0 && j >= 0) {
+            if (word1.charAt(i) == word2.charAt(j)) {
+                last[j] = i;
+                j--;
+            }
+            i--;
+        }
+
+        int[] result = new int[m];
+        boolean canSkip = true;
+        j = 0;
+
+        for (i = 0; i < n; i++) {
+            if (j == m) break;
+
+            if (word1.charAt(i) == word2.charAt(j)) {
+                result[j++] = i;
+            } else if (canSkip && (j == m - 1 || i < last[j + 1])) {
+                canSkip = false;
+                result[j++] = i;
+            }
+        }
+
+        return j == m ? result : new int[0];
+    }
+}
