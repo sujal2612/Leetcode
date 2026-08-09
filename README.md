@@ -31,6 +31,7 @@ Leetcode Practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sujal2612/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/sujal2612/Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sujal2612/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/sujal2612/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sujal2612/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ Leetcode Practice
 | [0322-coin-change](https://github.com/sujal2612/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/sujal2612/Leetcode/tree/master/0403-frog-jump) |
 | [0877-stone-game](https://github.com/sujal2612/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sujal2612/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -130,6 +132,7 @@ Leetcode Practice
 | [0593-valid-square](https://github.com/sujal2612/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujal2612/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sujal2612/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sujal2612/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sujal2612/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -245,6 +248,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal2612/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sujal2612/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sujal2612/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
@@ -324,4 +328,13 @@ Leetcode Practice
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sujal2612/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sujal2612/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
