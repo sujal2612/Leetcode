@@ -50,6 +50,7 @@ Leetcode Practice
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sujal2612/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sujal2612/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujal2612/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sujal2612/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sujal2612/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/sujal2612/Leetcode/tree/master/3731-find-missing-elements) |
@@ -118,6 +119,7 @@ Leetcode Practice
 | [1488-avoid-flood-in-the-city](https://github.com/sujal2612/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sujal2612/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/sujal2612/Leetcode/tree/master/2615-sum-of-distances) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujal2612/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal2612/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/sujal2612/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sujal2612/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -206,6 +208,7 @@ Leetcode Practice
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sujal2612/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sujal2612/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sujal2612/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujal2612/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal2612/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/sujal2612/Leetcode/tree/master/3731-find-missing-elements) |
