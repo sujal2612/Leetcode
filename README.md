@@ -143,6 +143,7 @@ Leetcode Practice
 | [3100-water-bottles-ii](https://github.com/sujal2612/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sujal2612/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sujal2612/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/sujal2612/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sujal2612/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -211,6 +212,7 @@ Leetcode Practice
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sujal2612/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sujal2612/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sujal2612/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/sujal2612/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sujal2612/Leetcode/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
